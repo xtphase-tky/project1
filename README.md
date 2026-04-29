@@ -56,7 +56,6 @@ Internet → Load Balancer → Auto Scaling EC2 → RDS (Private)
 
 ##  How It Works
 
-```text
 User → ALB → EC2 Instances → RDS
 
 1. User sends request
@@ -122,6 +121,7 @@ Kept database private for security
 
 ## Deployment
 
+``` bash
 terraform init
 terraform apply
 
