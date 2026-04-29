@@ -115,7 +115,7 @@ Chose ALB for better traffic management
 
 Kept database private for security
 
-> Detailed reasoning available in /docs/decisions.md
+> Detailed reasoning available in /docs/scaling.md
 
 ---
 
